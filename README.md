@@ -1,1 +1,2 @@
-Este tranajo es una prueba para aprender programación 
+Este trabajo es una prueba para aprender programación.
+
